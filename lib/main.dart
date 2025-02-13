@@ -65,7 +65,7 @@ class SelectionScreen extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Pick an option'),
+        title: const Text('Dillon Summers'),
       ),
       body: Center(
         child: Column(
