@@ -33,7 +33,7 @@ class HomeScreen extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            const Text("Stuff"),
+            const Text("Do you like dogs?"),
             ElevatedButton(
               onPressed: () async {
                 final result = await Navigator.push(
